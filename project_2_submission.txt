@@ -81,9 +81,9 @@ Q79::T
 Q80::7.85
 Q81::8.51
 Q82::16.99
-Q83::T
-Q84::T
-Q85::T
+Q83::N
+Q84::N
+Q85::N
 Q86::The eight-panel gabel howe truss and the eight-panel scissor truss have the same applied forces at each top chord node. The six panel gabel howe truss had slightly larger applied forces because the tributary area of the whole truss was divided over 7 top chord nodes instead of 9. The total applied force as well as the reactions at the bearing points of each truss were very similar among all the trusses. The 6 panel gabel howe truss had slightly lower reactions because there were two less purlins resting on the truss, reducing the overall dead load of the roof.The 6 panel gabel howe uses the least material, followed by the 8 panel gabel howe and lastly the scissor truss. The Scissor truss does provide better aesthetics as it allows for vaulted ceilings which are highly sought out.
 Q87::I believe that the 6-panel gabel howe truss is the best choice for the scope of this work. It uses the least amount of materials and has slightly lower max interior axial forces in the members of the truss than the 8-panel gabel truss. I believe the aesthetic benefits of the scissor truss in this context are heavily outweighed by the high interior axial forces.  
 
